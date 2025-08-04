@@ -4,7 +4,7 @@ This project is a microcontroller-based system designed to measure the real-time
 
 ---
 
-## 🚀 Features
+## Features
 
 - Real-time RPM measurement using encoder feedback
 - Speed control through a potentiometer
@@ -15,7 +15,7 @@ This project is a microcontroller-based system designed to measure the real-time
 
 ---
 
-## 🛠️ Components Used
+## Components Used
 
 | Component            | Description                         |
 |---------------------|-------------------------------------|
@@ -30,7 +30,7 @@ This project is a microcontroller-based system designed to measure the real-time
 
 ---
 
-## 📐 Working Principle
+## Working Principle
 
 1. The potentiometer sets the motor speed by adjusting PWM output to the L298 driver.
 2. The encoder generates pulses as the motor shaft rotates.
@@ -39,4 +39,4 @@ This project is a microcontroller-based system designed to measure the real-time
 
 ---
 
-## 📁 Project Structure
+## 📁Project Structure
