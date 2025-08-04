@@ -39,6 +39,4 @@ This project is a microcontroller-based system designed to measure the real-time
 
 ---
 
-## 📁Project Structure
-
-<pre> ``` Motor-RPM-Measuring-System/ ├── RPM_Measurement.ino # Arduino code file ├── README.md # This file ├── LICENSE # MIT license ``` </pre>
+<pre> ## 📁 Project Structure ``` Motor-RPM-Measuring-System/ ├── RPM_Measurement.ino # Arduino code file ├── README.md # This file ├── LICENSE # MIT license ``` </pre>
