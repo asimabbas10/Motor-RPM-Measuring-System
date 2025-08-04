@@ -40,4 +40,7 @@ This project is a microcontroller-based system designed to measure the real-time
 ---
 
 ## 📁Project Structure
-RPM_Measurement.ino
+Motor-RPM-Measuring-System/
+├── RPM_Measurement.ino # Arduino code file
+├── README.md # This file
+├── LICENSE # MIT license
