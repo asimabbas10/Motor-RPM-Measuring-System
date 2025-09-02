@@ -84,3 +84,4 @@ void loop() {
 void countPulse() {
   pulseCount++;
 }
+
