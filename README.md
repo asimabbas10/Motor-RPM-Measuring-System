@@ -37,6 +37,3 @@ This project is a microcontroller-based system designed to measure the real-time
 3. Arduino counts these pulses over a time interval to calculate RPM.
 4. The LCD displays the measured RPM in real-time.
 
----
-
-<pre> ## 📁 Project Structure ``` Motor-RPM-Measuring-System/ ├── RPM_Measurement.ino # Arduino code file ├── README.md # This file ├── LICENSE # MIT license ``` </pre>
